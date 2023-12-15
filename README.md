@@ -28,10 +28,11 @@ To run this project locally:
 ![Screenshot 1](wwwroot/Screenshots/LandingPage.png)
 ![Screenshot 2](wwwroot/Screenshots/NavLinks.png)
 ![Screenshot 3](wwwroot/Screenshots/NewArrivalsproductsSection.png)
-![Screenshot 4](wwwroot/Screenshots/NewTrendingTop_RatedProductsSale.jpeg)
+![Screenshot 4](wwwroot/Screenshots/NewTrendingTop_RatedProductsSale.png)
 ![Screenshot 5](wwwroot/Screenshots/Dealoftheday.png)
 ![Screenshot 6](wwwroot/Screenshots/About.png)
 ![Screenshot 7](wwwroot/Screenshots/FooterArea.png)
+
 
 Clone this repository.
 Open index.html in your preferred web browser.
