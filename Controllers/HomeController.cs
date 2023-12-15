@@ -24,6 +24,160 @@ namespace eCommerceDotNetCoreMVC.web.Controllers
 
             // Return the view
             return View();
+        }  public IActionResult Privacy1()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }  public IActionResult Privacy2()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }  public IActionResult Privacy3()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }  public IActionResult Privacy4()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }  public IActionResult Privacy5()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }  public IActionResult Privacy6()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+        public IActionResult Privacy7()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+        public IActionResult Privacy8()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+        public IActionResult Privacy9()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+        public IActionResult Privacy10()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10232()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10112()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy1022()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy101()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy102()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy1043()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10435()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10543()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10324()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
+        }
+          public IActionResult Privacy10453()
+        {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
+            return View();
         }
 
 
