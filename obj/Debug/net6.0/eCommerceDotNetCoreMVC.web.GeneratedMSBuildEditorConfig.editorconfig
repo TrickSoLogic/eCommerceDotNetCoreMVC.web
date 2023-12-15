@@ -108,6 +108,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Payments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ASP.net-CORE_MVC/GIT/Repository/eCommerceWeb_DotNetCore/eCommerceDotNetCoreMVC.web/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

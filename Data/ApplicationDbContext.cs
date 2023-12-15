@@ -16,5 +16,6 @@ namespace eCommerceDotNetCoreMVC.web.Data
         public DbSet<eCommerceDotNetCoreMVC.web.Models.Category>? Category { get; set; }
         public DbSet<eCommerceDotNetCoreMVC.web.Models.Brand>? Brand { get; set; }
         public DbSet<eCommerceDotNetCoreMVC.web.Models.Review>? Review { get; set; }
+        public DbSet<eCommerceDotNetCoreMVC.web.Models.Payment>? Payment { get; set; }
     }
 }
