@@ -12,5 +12,6 @@ namespace eCommerceDotNetCoreMVC.web.Data
         }
         public DbSet<eCommerceDotNetCoreMVC.web.Models.Product>? Product { get; set; }
         public DbSet<eCommerceDotNetCoreMVC.web.Models.Order>? Order { get; set; }
+        public DbSet<eCommerceDotNetCoreMVC.web.Models.Cart>? Cart { get; set; }
     }
 }
