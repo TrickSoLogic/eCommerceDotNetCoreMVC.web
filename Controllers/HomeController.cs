@@ -17,11 +17,15 @@ namespace eCommerceDotNetCoreMVC.web.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
         {
+            // Set a welcome message for all users
+            ViewData["WelcomeMessage"] = "Welcome to the eCommerce site made by Vishal Bhat.";
+
+            // Return the view
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

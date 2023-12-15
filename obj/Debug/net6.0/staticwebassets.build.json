@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "avte6yC4WKZofBGpnQjwkWi7fNlTeRVBYI8GqZM7XmE=",
+  "Hash": "j6Qh3YD5wLEPYdj8AwayNmh3/kJBFI1xyhIHY5aFrCA=",
   "Source": "eCommerceDotNetCoreMVC.web",
   "BasePath": "_content/eCommerceDotNetCoreMVC.web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "eCommerceDotNetCoreMVC.web\\wwwroot",
       "Source": "eCommerceDotNetCoreMVC.web",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eCommerceDotNetCoreMVC.web.styles.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eCommerceDotNetCoreMVC.web.styles.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "eCommerceDotNetCoreMVC.web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eCommerceDotNetCoreMVC.web.styles.css"
+      "OriginalItemSpec": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eCommerceDotNetCoreMVC.web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eCommerceDotNetCoreMVC.web.bundle.scp.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eCommerceDotNetCoreMVC.web.bundle.scp.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "eCommerceDotNetCoreMVC.web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eCommerceDotNetCoreMVC.web.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eCommerceDotNetCoreMVC.web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\css\\style.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\css\\style.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\css\\style-prefix.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\css\\style-prefix.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/css/style-prefix.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style-prefix.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/banner-1.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/banner-2.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\banner-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/banner-3.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/blog-1.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/blog-2.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/blog-3.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\blog-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/blog-4.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\cta-banner.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\cta-banner.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/cta-banner.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\cta-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\electronics-banner-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\electronics-banner-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/electronics-banner-1.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\electronics-banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\electronics-banner-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\electronics-banner-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/electronics-banner-2.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\electronics-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\bag.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\bag.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/bag.svg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\bag.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\coat.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\coat.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/coat.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\coat.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\cosmetics.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\cosmetics.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/cosmetics.svg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\cosmetics.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\dress.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\dress.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/dress.svg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\dress.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\glasses.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\glasses.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/glasses.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\glasses.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\hat.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\hat.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/hat.svg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\hat.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\jacket.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\jacket.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/jacket.svg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\jacket.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\jewelry.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\jewelry.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/jewelry.svg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\jewelry.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\perfume.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\perfume.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/perfume.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\perfume.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\quotes.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\quotes.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/quotes.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\quotes.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\shoes.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\shoes.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/shoes.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\shoes.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\shorts.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\shorts.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/shorts.svg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\shorts.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\tee.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\tee.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/tee.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\tee.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\watch.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\icons\\watch.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/icons/watch.svg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\watch.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\logo\\favicon.ico",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\logo\\favicon.ico",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/logo/favicon.ico",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\logo\\logoVishal.svg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\logo\\logoVishal.svg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/logo/logoVishal.svg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\logoVishal.svg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\mens-banner.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\mens-banner.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/mens-banner.jpg",
       "AssetKind": "All",
@@ -1564,27 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\mens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\newsletter.png",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\payment.png",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
-      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
-      "RelativePath": "assets/images/newsletter.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\newsletter.png"
-    },
-    {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\payment.png",
-      "SourceId": "eCommerceDotNetCoreMVC.web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/payment.png",
       "AssetKind": "All",
@@ -1598,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/1.jpg",
       "AssetKind": "All",
@@ -1615,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/2.jpg",
       "AssetKind": "All",
@@ -1632,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/3.jpg",
       "AssetKind": "All",
@@ -1649,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/4.jpg",
       "AssetKind": "All",
@@ -1666,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\belt.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\belt.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/belt.jpg",
       "AssetKind": "All",
@@ -1683,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\belt.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/clothes-1.jpg",
       "AssetKind": "All",
@@ -1700,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\clothes-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/clothes-2.jpg",
       "AssetKind": "All",
@@ -1717,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\clothes-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/clothes-3.jpg",
       "AssetKind": "All",
@@ -1734,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\clothes-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\clothes-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/clothes-4.jpg",
       "AssetKind": "All",
@@ -1751,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\clothes-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-1.jpg",
       "AssetKind": "All",
@@ -1768,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-2.jpg",
       "AssetKind": "All",
@@ -1785,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-3.jpg",
       "AssetKind": "All",
@@ -1802,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-4.jpg",
       "AssetKind": "All",
@@ -1819,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-5.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-5.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-5.jpg",
       "AssetKind": "All",
@@ -1836,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-6.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jacket-6.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jacket-6.jpg",
       "AssetKind": "All",
@@ -1853,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jacket-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jewellery-1.jpg",
       "AssetKind": "All",
@@ -1870,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jewellery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jewellery-2.jpg",
       "AssetKind": "All",
@@ -1887,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jewellery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\jewellery-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/jewellery-3.jpg",
       "AssetKind": "All",
@@ -1904,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\jewellery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\party-wear-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\party-wear-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/party-wear-1.jpg",
       "AssetKind": "All",
@@ -1921,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\party-wear-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\party-wear-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\party-wear-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/party-wear-2.jpg",
       "AssetKind": "All",
@@ -1938,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\party-wear-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\perfume.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\perfume.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/perfume.jpg",
       "AssetKind": "All",
@@ -1955,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\perfume.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shampoo.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shampoo.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shampoo.jpg",
       "AssetKind": "All",
@@ -1972,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shampoo.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shirt-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shirt-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shirt-1.jpg",
       "AssetKind": "All",
@@ -1989,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shirt-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shirt-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shirt-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shirt-2.jpg",
       "AssetKind": "All",
@@ -2006,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shirt-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-1.jpg",
       "AssetKind": "All",
@@ -2023,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-1_1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-1_1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-1_1.jpg",
       "AssetKind": "All",
@@ -2040,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-1_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-2.jpg",
       "AssetKind": "All",
@@ -2057,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-2_1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-2_1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-2_1.jpg",
       "AssetKind": "All",
@@ -2074,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-2_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-3.jpg",
       "AssetKind": "All",
@@ -2091,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-4.jpg",
       "AssetKind": "All",
@@ -2108,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-5.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shoe-5.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shoe-5.jpg",
       "AssetKind": "All",
@@ -2125,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shoe-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shorts-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shorts-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shorts-1.jpg",
       "AssetKind": "All",
@@ -2142,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shorts-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shorts-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\shorts-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/shorts-2.jpg",
       "AssetKind": "All",
@@ -2159,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\shorts-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-1.jpg",
       "AssetKind": "All",
@@ -2176,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-2.jpg",
       "AssetKind": "All",
@@ -2193,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-3.jpg",
       "AssetKind": "All",
@@ -2210,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-4.jpg",
       "AssetKind": "All",
@@ -2227,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-5.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-5.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-5.jpg",
       "AssetKind": "All",
@@ -2244,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-6.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\sports-6.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/sports-6.jpg",
       "AssetKind": "All",
@@ -2261,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\sports-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\testimonial-1.jpeg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\testimonial-1.jpeg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/testimonial-1.jpeg",
       "AssetKind": "All",
@@ -2278,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\testimonial-1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-1.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-1.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/watch-1.jpg",
       "AssetKind": "All",
@@ -2295,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\watch-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-2.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-2.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/watch-2.jpg",
       "AssetKind": "All",
@@ -2312,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\watch-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-3.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-3.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/watch-3.jpg",
       "AssetKind": "All",
@@ -2329,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\watch-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-4.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\products\\watch-4.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/products/watch-4.jpg",
       "AssetKind": "All",
@@ -2346,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\watch-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\testimonial-1.jpeg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\testimonial-1.jpeg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/testimonial-1.jpeg",
       "AssetKind": "All",
@@ -2363,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial-1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\womens-banner.jpg",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\images\\womens-banner.jpg",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/images/womens-banner.jpg",
       "AssetKind": "All",
@@ -2380,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\womens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\js\\script.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\assets\\js\\script.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "assets/js/script.js",
       "AssetKind": "All",
@@ -2397,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\css\\site.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2414,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\favicon.ico",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\favicon.ico",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2431,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\js\\site.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\js\\site.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2448,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2465,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2482,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2499,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2533,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2550,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2567,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2584,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2601,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2618,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2635,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2652,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2669,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2686,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2703,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2720,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2737,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2754,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2771,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2788,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2805,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2822,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2839,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2856,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2873,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2890,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2907,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2924,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2941,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2958,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2975,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2992,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3009,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3026,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3043,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3060,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3077,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3094,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3111,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3128,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3145,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3162,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3179,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3196,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3213,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3230,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3247,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3264,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3281,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3298,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3315,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3332,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3349,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3366,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3383,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3400,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "eCommerceDotNetCoreMVC.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\eCommerceWeb\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
       "BasePath": "_content/eCommerceDotNetCoreMVC.web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3415,6 +3398,125 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\About.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/About.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\About.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\DealOftheDay.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/DealOftheDay.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\DealOftheDay.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\FooterArea.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/FooterArea.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\FooterArea.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\LandingPage.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/LandingPage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\LandingPage.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\NavLinks.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/NavLinks.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\NavLinks.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\NewArrivalsproductsSection.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/NewArrivalsproductsSection.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\NewArrivalsproductsSection.png"
+    },
+    {
+      "Identity": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\Screenshots\\NewTrendingTop_RatedProductsSale.png",
+      "SourceId": "eCommerceDotNetCoreMVC.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\eCommerceWeb_DotNetCore\\eCommerceDotNetCoreMVC.web\\wwwroot\\",
+      "BasePath": "_content/eCommerceDotNetCoreMVC.web",
+      "RelativePath": "Screenshots/NewTrendingTop_RatedProductsSale.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshots\\NewTrendingTop_RatedProductsSale.png"
     }
   ]
 }
